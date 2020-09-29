@@ -19,7 +19,7 @@ required to turn in your submission for this exercise.
 
 ## Requirements
 
-Work through the prompts in `lib/challenge.js`.
+Work through the prompts in  [`lib/challenge.js`](lib/challenge.js).
 
 ## Plagiarism
 
